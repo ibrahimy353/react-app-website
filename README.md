@@ -1,2 +1,1 @@
-# react-app-website
- 
+my aim in this project is to create a beautiful movieland website that is responsive to any electronic device.
